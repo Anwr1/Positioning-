@@ -24,7 +24,7 @@
   background-color:green;
   width:200px;
   height:200px;
-  position:absolute;
+  position:fixed;
   bottom: 0px;
   right: 50px;
   
@@ -37,5 +37,5 @@ child-div{
   color:white;
   background-color:blue;
   position:absolute;
-  bottom:0px;
+  bottom:30px;
 }
